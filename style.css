@@ -1,0 +1,36 @@
+.container-fluid{
+    /* padding: 7% 15%; */
+    margin-top:7%;
+    width: 75%;
+    border-radius: 4px;
+    border: none;
+    /* align-items: center; */
+}
+
+.btn-secondary{
+    margin-left:2%;
+}
+/* .row{
+    align-items: center;
+} */
+.btn-primary{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.col{
+    padding: 5%;
+    align-items: center;
+}
+
+input{
+    border:none;
+}
+
+.navbar{
+    padding: 7% 15%;
+    align-items: center;
+    color: white;
+}
+/* .section1{
+    padding: 7% 15%;
+} */
